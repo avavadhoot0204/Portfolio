@@ -7,7 +7,7 @@ let resumeData = {
     "emailid": "ap1731@scarletmail.rutgers.edu",
     "gemail": "pawaskaravadhoot04@gmail.com",
     "address": "Harrison, New Jersey",
-    "roleDescription": "Hi! I am you next Data Analyst / Data Scientist. Exceptionally innovative Data Analyst with a proven record of database design and project management. Highly analytical and detail-oriented data analyst with in-depth knowledge of database types; research methodologies; and significant data capture, curation, manipulation, and visualization. Furnish insights, analytics, and business intelligence used to advance opportunity identification, process reengineering, and corporate growth.",
+    "roleDescription": "Hi! I am you next Data Analyst / Data Scientist. I am a data-driven person who is always eager to learn and explore the field of Data Science. Highly accurate and experienced Data Scientist adept at analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing an extensive analytical skill, strong attention to detail, and a significant ability to work in team environments. Deep understanding of Statistical Models, Algorithms and Multivariate Analysis.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -36,7 +36,7 @@ let resumeData = {
         "YearOfPassing":"2020",
         "Gpa":"3.6",
         "Achievements":"Relevant Courses: Data Analysis and Visualization, Machine Learning and Statistics, Business Data Management, Analytics Business Intelligence, Project Management",
-        "AboutEdu": "My Graduate coursework has strengthen my concepts of Product Development, Systems Design, Object oriented princeples, Database Management and Database Design. I have gained knowledge and experience in web/application development throughout the software development lifecycle. Also, I have been following agile development methodology. I am always open to learning and so the technology stack I have selected for my graduation is diverse, ranging from frontend development to backend development and also Data Analysis and Data Science related courses. Apart from this, I have developed strong communication skills throughtout my project presentations and working in group improving my teamwork ability further. My coursework has helped me enhance my problem solving and analytical abilities."
+        "AboutEdu": "My Graduate coursework has strengthen my concepts of Database Management and Database Design, Data Analysis and Visualization, ETL. I have gained knowledge and experience in Machine learning using statistical algorithms. Also, I have been following agile development methodology. I am always open to learning and so the technology stack I have selected ranges from frontend development to backend development and Data Science related courses. Apart from this, I have developed strong communication skills throughtout my project presentations and working in group improving my teamwork ability further. My coursework has helped me enhance my problem solving and analytical abilities."
       },
       {
         "UniversityName":"University of Mumbai",
@@ -62,6 +62,13 @@ let resumeData = {
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2015",
         "Achievements":"Optimized pricing by capturing, cleansing, manipulating, and conducting visualization of raw data to assist in analytical data services using modern Business Intelligence and Data Visualization tools such as Tableau along with increasing efficiency by 28%, Estimated customer purchase behavior by designing and building models on large datasets and automating the analytics process, Utilized Google Analytics and Google Tag Manager and implemented new scripts that increased performance by 25%, Incorporated smooth automation into repetitive business tasks and lengthy processes using Python"
+      },
+      {
+        "CompanyName":"Rutgers University",
+        "specialization":"Adjunct Professor",
+        "MonthOfLeaving":"Till date",
+        "YearOfLeaving":"2020",
+        "Achievements":"Teaching undergraduate students Business Research Methods course, Developing and managing the class syllabus and ensuring that the syllabus meets department and ●college standards, Planning and creating lectures, in-class discussions, and assignments, Grading assigned papers, quizzes, and exams, Assessing grades for students based on participation, performance in class, assignments, and examinations, Reporting student learning outcomes, class reviews, and analyzing student data, Collaborating with colleagues on the course curriculum, Participating in professional development activities"
       }
     ],
     "skills":[
@@ -118,11 +125,6 @@ let resumeData = {
         "imgurl":"images/portfolio/teleManagement.jpg",
         "url":"https://github.com/avavadhoot0204/Telecommunication-Server-Management-System"
       },
-      {
-        "name":"Song Recommender System",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/songImage.jpg"
-      }
     ],
     "testimonials":[
       {
